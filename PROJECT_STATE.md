@@ -30,3 +30,33 @@ See ARCHITECTURE.md
 
 ## Notes
 See notes/
+
+## Learning Priority
+
+Learning depth is more important than project completion speed
+or resume readiness.
+
+We will not skip, shorten, or superficially cover concepts
+to meet a timeline.
+
+The 4-month period is only a possible resume milestone,
+not a learning deadline.
+
+A topic is considered complete only when the user:
+- Understands the underlying problem
+- Can explain the reasoning
+- Can write the implementation independently
+- Can write relevant tests independently
+- Understands failure and edge cases
+- Understands trade-offs
+- Can explain when the approach should and should not be used
+
+## Timeline
+
+Target:
+- Approximately 4 months: potential resume-worthy milestone
+- Approximately 7–10+ months: thorough completion of the major roadmap
+
+These are estimates, not deadlines.
+
+Learning depth takes priority over timeline.

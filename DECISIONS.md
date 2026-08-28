@@ -37,3 +37,17 @@ Start with a modular monolith.
 
 Reason:
 We want to understand service boundaries before distributing them.
+
+## ADR-005 — Learning Depth Over Timeline
+
+Decision:
+The project will not compromise learning depth to meet a
+four-month resume milestone.
+
+Reason:
+The primary objective is to develop independent backend
+engineering ability, not merely complete a portfolio project.
+
+The project may become resume-worthy during the journey,
+but resume readiness is a consequence of demonstrated
+understanding and implementation quality.
